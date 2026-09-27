@@ -5,9 +5,9 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [David Santiago Santos Amaya] | Líder (Arquitecto) | `@David-santiago-svg` |
+| [Nataly Velasco Navarro] | Desarrollador | `@NatalyNavarro` |
+| [Manuel Fernando Paredes] | Desarrollador | `@ManuelFernando95` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
@@ -32,6 +32,6 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 
 ---
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo.
->
->
->
+>David Santiago Santos Amaya.
+>Nataly Velasco Navarro.
+>Manuel Fernando Paredes.
